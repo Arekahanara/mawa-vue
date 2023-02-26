@@ -1,4 +1,6 @@
-# mawa
+# MaWa
+
+News website project with Contentful integration. Includes a classic endless newsfeed, sidebar, special profiles about drivers and brands, photo and video galleries and much more.
 
 ## Build Setup
 
